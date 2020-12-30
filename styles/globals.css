@@ -14,3 +14,20 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.navbar {
+  padding: 30px;
+  background-color: antiquewhite;
+  display: flex;
+  justify-content: space-between;
+}
+.navbar a {
+  padding: 30px;
+}
+.content {
+  background-color: darkgray;
+  height: 100vh;
+  font-size: 2rem;
+  padding-top: 30px;
+  color: #fff;
+}
